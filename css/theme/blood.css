@@ -144,7 +144,9 @@ body {
   box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3); }
 
 .reveal code {
-  font-family: monospace; }
+  font-family: monospace;
+  color: green;
+  padding: 5px;}
 
 .reveal pre code {
   display: block;
@@ -153,7 +155,7 @@ body {
   max-height: 400px;
   word-wrap: normal;
   background: #3F3F3F;
-  color: #DCDCDC; }
+  color: #DCDCDC;  }
 
 .reveal table {
   margin: auto;
